@@ -1,0 +1,2 @@
+# Kuberneteswordpressdeployment1
+Kuberneteswordpressdeployment1byadnn
